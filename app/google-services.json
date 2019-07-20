@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "342826562230",
+    "firebase_url": "https://robabkia-bce79.firebaseio.com",
+    "project_id": "robabkia-bce79",
+    "storage_bucket": "robabkia-bce79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342826562230:android:e8532f63656309ab",
+        "android_client_info": {
+          "package_name": "com.example.hamza.robabkia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342826562230-8j283p2tcrguii81vnm01sb1tf0qc8ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hamza.robabkia",
+            "certificate_hash": "d49c446115e00c700c7d23be4a6411a37db4d766"
+          }
+        },
+        {
+          "client_id": "342826562230-sksjk89vro88sv1gl4n75g6vbn54di42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gNDNIRFlP_tJph_j4taOlx-drh64Ydo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342826562230-sksjk89vro88sv1gl4n75g6vbn54di42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
